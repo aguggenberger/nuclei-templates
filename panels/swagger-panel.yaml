@@ -12,6 +12,7 @@ requests:
       - "{{BaseURL}}/swagger-ui.html"
       - "{{BaseURL}}/swagger/swagger-ui.html"
       - "{{BaseURL}}/api/swagger-ui.html"
+      - "{{BaseURL}}/swagger/ui/index"
       - "{{BaseURL}}/api-docs/swagger.json"
       - "{{BaseURL}}/swagger.json"
       - "{{BaseURL}}/swagger/v1/swagger.json"
